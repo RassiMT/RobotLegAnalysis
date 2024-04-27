@@ -1,5 +1,3 @@
-\paragraph{Linear analytical intersection of 2 circles\newline\newline}
-
 Intersecting circles is used to determine the point J from figure \ref{fig:projection2d}.
 
 The two circles have the following equations:
