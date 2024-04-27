@@ -1,10 +1,9 @@
-Intersecting circles is used to determine the point J from figure \ref{fig:projection2d}.
+#### Intersecting circles is used to determine the point J from figure \ref{fig:projection2d}.
 
 The two circles have the following equations:
-\[ (x - x_1)^2 + (y - y_1)^2 = r_1^2 \]
-\[ (x - x_2)^2 + (y - y_2)^2 = r_2^2 \]
 
-
+$(x - x_1)^2 + (y - y_1)^2 = r_1^2$; $~~~~~~~~~~$ $(x - x_2)^2 + (y - y_2)^2 = r_2^2$
+&nbsp;
 
 Setting both equations equal to zero and then equal each other:
 \[ (x - x_1)^2 + (y - y_1)^2 - r_1^2 = (x - x_2)^2 + (y - y_2)^2 - r_2^2 \]
